@@ -23,14 +23,14 @@
   <img src="https://img.icons8.com/color/2x/html-5.png"  alt="HTML"  width="40"  height="40"/>
   <img src="https://img.icons8.com/color/344/css3.png"  alt="HTML"  width="40"  height="40"/>
   <img src="https://img.icons8.com/color/452/javascript--v1.png"  alt="HTML"  width="40"  height="40"/>
+  <img src="https://img.icons8.com/color/2x/linux.png"/ alt="Linux" width="40" height="40">
+  <img src="https://img.icons8.com/color/2x/git.png"  alt="Git"  width="40"  height="40"/> 
+  <img src="https://img.icons8.com/fluent/2x/docker.png"/ alt="Docker" width="40" height="40">
+  <img src="https://img.icons8.com/color/2x/kubernetes.png"/ alt="Kubernetes" width="40" height="40">
   <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"  alt="Java"  width="40"  height="40"/>
 <p>
 <h2>📖 I’m currently learning</h2>
 </p>
 <p>
-  <img src="https://img.icons8.com/color/2x/linux.png"/ alt="Linux" width="40" height="40">
-  <img src="https://img.icons8.com/color/2x/git.png"  alt="Git"  width="40"  height="40"/> 
   <img src="https://img.icons8.com/color/2x/golang.png" alt="GoLang" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluent/2x/docker.png"/ alt="Docker" width="40" height="40">
-  <img src="https://img.icons8.com/color/2x/kubernetes.png"/ alt="Kubernetes" width="40" height="40">
 </p>

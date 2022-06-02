@@ -1,4 +1,4 @@
-# <h1 align="center"> Hi there <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="35px"></img>, I am Mohammad Aquib</h1>
+# <h1 align="center"> Hi there <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="3px"></img>, I am Mohammad Aquib</h1>
 
 <!-- about me -->
 ## :raising_hand: About Me

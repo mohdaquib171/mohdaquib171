@@ -1,4 +1,4 @@
-# <h1 align="center"> Hi there <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="3px"></img>, I am Mohammad Aquib</h1>
+# <h1 align="center"> Hi there <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="35px" height="40px"></img>, I am Mohammad Aquib</h1>
 
 <!-- about me -->
 ## :raising_hand: About Me
@@ -18,7 +18,7 @@
 </a>
 
 <!-- Language and Tools -->
-<h2>Languages & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
+<h2>Languages & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = 35px> </h2>
 <p>    
   <img src="https://img.icons8.com/color/2x/html-5.png"  alt="HTML"  width="40"  height="40"/>
   <img src="https://img.icons8.com/color/344/css3.png"  alt="HTML"  width="40"  height="40"/>

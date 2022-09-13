@@ -2,7 +2,7 @@
 
 <!-- about me -->
 ## :raising_hand: About Me
-- :man_student: A 3rd year undergrad student
+- :man_student: A final year undergrad student
 - 🌱 I'm currently learning ***DSA*** and ***DevOps***  
 - 👯 I’m looking to collaborate on **GitHub**
 - ⚡ Fun fact: I'm a huge fan of Harry Potter 
@@ -26,11 +26,11 @@
   <img src="https://img.icons8.com/color/2x/linux.png"/ alt="Linux" width="40" height="40">
   <img src="https://img.icons8.com/color/2x/git.png"  alt="Git"  width="40"  height="40"/> 
   <img src="https://img.icons8.com/fluent/2x/docker.png"/ alt="Docker" width="40" height="40">
-  <img src="https://img.icons8.com/color/2x/kubernetes.png"/ alt="Kubernetes" width="40" height="40">
   <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"  alt="Java"  width="40"  height="40"/>
 <p>
 <h2>📖 I’m currently learning</h2>
 </p>
 <p>
-  <img src="https://img.icons8.com/color/2x/golang.png" alt="GoLang" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/2x/kubernetes.png"/ alt="Kubernetes" width="40" height="40">
+  <!-- <img src="https://img.icons8.com/color/2x/golang.png" alt="GoLang" width="40" height="40"/> -->
 </p>

@@ -10,10 +10,10 @@
 <!-- connect with me -->
 ## <div id="badges"><img src="https://komarev.com/ghpvc/?username=mdaquib171&style=flat-square&color=blueviolet" alt=""/></div>
 ## :speech_balloon: Connect with me: 
-<a href="https://twitter.com/idevaquib">
+<a href="https://twitter.com/mohdaquib171">
   <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/>
 </a>
-<a href="https://www.linkedin.com/in/mdaquib/">
+<a href="https://www.linkedin.com/in/mohdaquib171/">
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
 </a>
 

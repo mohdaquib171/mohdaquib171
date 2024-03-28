@@ -2,8 +2,8 @@
 
 <!-- about me -->
 ## :raising_hand: About Me
-- :man_student: A final year undergrad student
-- 🌱 I'm currently learning ***DSA*** and ***DevOps***  
+- :man_student: I am recently graduated
+- 🌱 I'm currently Freelance Frontend Developer and learning new things  
 - 👯 I’m looking to collaborate on **GitHub**
 - ⚡ Fun fact: I'm a huge fan of Harry Potter 
 

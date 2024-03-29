@@ -2,10 +2,11 @@
 
 <!-- about me -->
 ## :raising_hand: About Me
-- :man_student: I am recently graduated
-- 🌱 I'm currently working as Freelance Frontend Developer and continuously learning new things.
-- 👯 I’m looking to collaborate on **GitHub**
-- ⚡ Fun fact: I'm a huge fan of Harry Potter 
+- 👨‍🎓 Recent graduate diving into the world of tech 🌟
+- 🌱 Freelance Frontend Developer 💻
+- 🚀 Always learning and exploring new things 
+- 👯 Open to collaborations on GitHub.
+- ⚡ Fun fact: I'm a huge fan of Harry Potter 🧙‍♂️✨
 
 <!-- connect with me -->
 ## <div id="badges"><img src="https://komarev.com/ghpvc/?username=mdaquib171&style=flat-square&color=blueviolet" alt=""/></div>
